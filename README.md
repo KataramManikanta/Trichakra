@@ -1,0 +1,2 @@
+# Trichakra
+KataramManikanta/Trichakra
